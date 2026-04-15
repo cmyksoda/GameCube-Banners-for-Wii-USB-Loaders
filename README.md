@@ -34,25 +34,32 @@ WADs are provided on this repo for you to view and modify. They have not been te
 - BIlly Hatcher & the Giant Egg 
 - Burnout 
 - Burnout 2 
-- Capcom vs SNK 2 
+- Capcom vs SNK 2
+- Chibi-Robo!
 - Crash Tag Team Racing 
-- Crazy Taxi 
+- Crazy Taxi
+- Custom Robo
 - DK Jungle Beat 
 - Donald Duck Quack Attack 
 - Donkey Konga 
 - Donkey Konga 2 
 - Doshin the Giant 
-- Eternal Darkness 
+- Eternal Darkness
+- F Zero AX
 - F Zero GX 
 - Final Fantasy Crystal Chronicle 
 - Fire Emblem Path of Radiance 
 - Geist 
 - Hitman 2 
-- Killer 7 
+- Killer 7
+- Kirby Air Ride
+- Kururin Squash (English)
 - Lord of the Rings Return of the King 
 - Lord of the Rings The Two Towers 
 - Luigis Mansion 
-- Mario Golf Toadstool Tour 
+- Mario Golf Toadstool Tour
+- Mario Kart Arcade GP
+- Mario Kart Arcade GP 2
 - Mario Kart Double Dash 
 - Mario Party 4 
 - Mario Party 5 
@@ -62,7 +69,8 @@ WADs are provided on this repo for you to view and modify. They have not been te
 - Metal Gear Solid Twin Snakes
 - Namco 50th Aniversary Collection 
 - Need For Speed Underground 
-- Need For Speed Underground 2 
+- Need For Speed Underground 2
+- Odama
 - Pac-Man World 2
 - Pac-Man World 3
 - Paper Mario the Thousand Year Door 
