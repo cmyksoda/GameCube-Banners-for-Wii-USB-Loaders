@@ -77,7 +77,8 @@ WADs are provided on this repo for you to view and modify. They have not been te
 - Phantasy Star Online 1 & 2 
 - Phantasy Star Online 3 
 - Pikmin 
-- Pikmin 2 
+- Pikmin 2
+- Pokemon Channel
 - Pokemon Colosseum 
 - Pokemon XD 
 - Prince of Persia the Sands of Time 
